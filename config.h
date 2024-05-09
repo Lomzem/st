@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 static char *font =
-    "JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF:style=Regular:size=24";
+    "JetBrainsMonoNL Nerd Font,JetBrainsMonoNL NF:style=Regular:size=18";
 static int borderpx = 2;
 
 /*
